@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Djackets.iml" filepath="$PROJECT_DIR$/.idea/Djackets.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/vvue/.idea/vvue.iml" filepath="$USER_HOME$/Desktop/vvue/.idea/vvue.iml" />
+    </modules>
+  </component>
+</project>
